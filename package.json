@@ -1,10 +1,10 @@
 {
-  "name": "horizin-token",
-  "description": "Manage the deploymne of fungible tokens and on-chain factory",
+  "name": "fungbile-token",
+  "description": "Ethereum FunginbleToken smart contract.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git@github.com:CryptoManiacsZone/1split.git"
+    "url": "git@github.com:kamescg/fungible-token.git"
   },
   "license": "MIT",
   "dependencies": {
